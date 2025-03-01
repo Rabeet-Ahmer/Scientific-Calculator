@@ -19,7 +19,7 @@ def styling():
     <style>
         /* Main container styling */
         .main {
-            background-color: #f8f9fa;
+            background-color: #0e1117;
             padding: 20px;
         }
         
